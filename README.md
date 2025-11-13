@@ -4,8 +4,7 @@ Landing page corporativa de **LuzNet Connect**, diseñada con **HTML5, CSS3 y Ja
 
 ---
 
-## 🖼️ Vista previa
-[🔗 Ver sitio en línea](https://LJosue1994.github.io/landing-luznet)
+
 
 ---
 
